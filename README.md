@@ -2,11 +2,11 @@
 
 ## Project Description
 
-This project automates the process of scraping data from a YouTube channel using Selenium and BeautifulSoup. The scraped data is stored in an Excel file for further analysis. The project demonstrates web scraping techniques, data preprocessing, and data visualization using Python.
+This project automates the process of scraping data from Krish Naik's YouTube channel using Selenium and BeautifulSoup. I admire Krish Naik's videos and the content he creates, and I often follow his tutorials. As a result, I chose to apply my learning by working on this project. The scraped data is stored in an Excel file for further analysis. The project demonstrates web scraping techniques, data preprocessing, and data visualization using Python.
 
 ## Features
 
-- Scrapes video details from a given YouTube channel URL.
+- Scrapes video details from Krish Naik's YouTube channel.
 - Extracts information such as video titles, views, upload dates, and links.
 - Preprocesses text data using NLP techniques with NLTK.
 - Uses PorterStemmer and Tokenizer for text preprocessing.
