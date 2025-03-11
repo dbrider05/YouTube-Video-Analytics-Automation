@@ -37,7 +37,7 @@ This project automates the process of scraping data from Krish Naik's YouTube ch
 Ensure that you have Python installed. You can install the required dependencies using:
 
 ```sh
-pip install selenium xlsxwriter pandas openpyxl nltk tqdm seaborn wordcloud numpy
+pip install -r requirements.txt
 ```
 
 ### WebDriver Setup

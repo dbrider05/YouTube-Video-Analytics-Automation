@@ -1,0 +1,10 @@
+selenium 
+xlsxwriter 
+pandas 
+openpyxl
+nltk
+tqdm
+seaborn
+matplotlib
+wordcloud
+numpy
