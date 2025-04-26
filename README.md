@@ -1,4 +1,4 @@
-# YouTube Channel Scraper
+# YouTube Video Analytics Automation
 
 ## Project Description
 
